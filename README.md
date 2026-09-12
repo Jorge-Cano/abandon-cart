@@ -1,5 +1,5 @@
-# abandon-cart
-abandon cart demonstration
+# error/abandon-cart
+error then abandoned cart demonstration
 
 ```mermaid
 sequenceDiagram
